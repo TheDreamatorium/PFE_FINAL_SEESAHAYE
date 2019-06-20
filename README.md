@@ -1,5 +1,10 @@
 # PFE_FINAL_SEESAHAYE
 
+Descriptions:
+API in python to detect handwritten characters on paper using OpenCV and the EMNIST dataset.
+When the base64 encoded image is received, it is converted back to a PNG image. Then the detection is done by the python script.
+
+Instructions:
 --Install Virtual Environment
 pip3 install virtualenv
 
